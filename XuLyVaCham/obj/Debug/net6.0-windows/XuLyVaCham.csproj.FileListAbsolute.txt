@@ -1,0 +1,17 @@
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\bin\Debug\net6.0-windows\XuLyVaCham.exe
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\bin\Debug\net6.0-windows\XuLyVaCham.deps.json
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\bin\Debug\net6.0-windows\XuLyVaCham.runtimeconfig.json
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\bin\Debug\net6.0-windows\XuLyVaCham.dll
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\bin\Debug\net6.0-windows\XuLyVaCham.pdb
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.csproj.AssemblyReference.cache
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.Form1.resources
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.csproj.GenerateResource.cache
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.AssemblyInfoInputs.cache
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.AssemblyInfo.cs
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.csproj.CoreCompileInputs.cache
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.dll
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\refint\XuLyVaCham.dll
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.pdb
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\XuLyVaCham.genruntimeconfig.cache
+C:\Users\adoan\OneDrive\XuLyVaCham\XuLyVaCham\obj\Debug\net6.0-windows\ref\XuLyVaCham.dll

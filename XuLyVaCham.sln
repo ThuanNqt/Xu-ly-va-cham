@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuLyVaCham", "XuLyVaCham\XuLyVaCham.csproj", "{C18ACA0F-418C-49BD-B765-CA7B2E3D85B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18ACA0F-418C-49BD-B765-CA7B2E3D85B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18ACA0F-418C-49BD-B765-CA7B2E3D85B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18ACA0F-418C-49BD-B765-CA7B2E3D85B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18ACA0F-418C-49BD-B765-CA7B2E3D85B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEB1410-43DF-4849-8331-676DDF71775E}
+	EndGlobalSection
+EndGlobal
