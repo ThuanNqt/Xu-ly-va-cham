@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adoan\\OneDrive\\OOP\\Game Unity\\XuLyVaCham\\XuLyVaCham\\XuLyVaCham.csproj",
+      "projectUniqueName": "E:\\code\\Xu-ly-va-cham\\XuLyVaCham\\XuLyVaCham.csproj",
       "projectName": "XuLyVaCham",
-      "projectPath": "C:\\Users\\adoan\\OneDrive\\OOP\\Game Unity\\XuLyVaCham\\XuLyVaCham\\XuLyVaCham.csproj",
+      "projectPath": "E:\\code\\Xu-ly-va-cham\\XuLyVaCham\\XuLyVaCham.csproj",
       "packagesPath": "C:\\Users\\adoan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adoan\\OneDrive\\OOP\\Game Unity\\XuLyVaCham\\XuLyVaCham\\obj\\",
+      "outputPath": "E:\\code\\Xu-ly-va-cham\\XuLyVaCham\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
